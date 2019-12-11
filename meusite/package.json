@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-<<<<<<< HEAD
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.3",
     "@testing-library/user-event": "^7.1.2",
@@ -33,17 +32,3 @@
     ]
   }
 }
-=======
-    "react": "^16.12.0",
-    "react-dom": "^16.12.0",
-    "react-scripts": "0.9.5"
-  },
-  "devDependencies": {},
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
-  }
-}
->>>>>>> 8919274fb4fc9ac748102e4d17933f9b45c0fd88
