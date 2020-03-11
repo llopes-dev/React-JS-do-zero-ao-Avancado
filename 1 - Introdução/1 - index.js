@@ -1,4 +1,0 @@
-/**
- * 
- * Orientações acerca do Projeto
- */
